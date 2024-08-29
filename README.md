@@ -11,7 +11,7 @@ Desafio do DIO, usando o Github codeSpace para resolver códigos simples em Pyth
 
 [![Código Resolvido](https://img.shields.io/badge/Código_Resolvido-Concatenando_Dados-blue)](https://github.com/michelleGomes85/dio-codespaces-challenge/blob/main/concatenate_data.py)
 
-2 - Repetindo Textos ✏️
+### 2 - Repetindo Textos ✏️
 **Descrição:** Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado.
 
 [![Código Resolvido](https://img.shields.io/badge/Código_Resolvido-Repetindo_Textos-blue)](https://github.com/michelleGomes85/dio-codespaces-challenge/blob/main/repeat_text.py)
