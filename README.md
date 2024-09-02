@@ -15,3 +15,8 @@ Desafio do DIO, usando o Github codeSpace para resolver códigos simples em Pyth
 **Descrição:** Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado.
 
 [![Código Resolvido](https://img.shields.io/badge/Código_Resolvido-Repetindo_Textos-blue)](https://github.com/michelleGomes85/dio-codespaces-challenge/blob/main/repeat_text.py)
+
+### 3 - Operações Matemáticas Simples 📐
+**Descrição:** Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
+
+[![Código Resolvido](https://img.shields.io/badge/Código_Resolvido-Operações_Matemáticas-blue)](https://github.com/michelleGomes85/dio-codespaces-challenge/blob/main/math_operations.py)
