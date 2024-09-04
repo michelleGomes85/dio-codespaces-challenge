@@ -20,3 +20,9 @@ Desafio do DIO, usando o Github codeSpace para resolver códigos simples em Pyth
 **Descrição:** Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
 
 [![Código Resolvido](https://img.shields.io/badge/Código_Resolvido-Operações_Matemáticas-blue)](https://github.com/michelleGomes85/dio-codespaces-challenge/blob/main/math_operations.py)
+
+## 4 - Verificando Números Pares e Ímpares 🧮
+
+Descrição: Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. 
+
+[![Código Resolvido](https://img.shields.io/badge/Código_Resolvido-Números_Pares/Impares-blue)](https://github.com/michelleGomes85/dio-codespaces-challenge/blob/main/checking_even_odd.py)
