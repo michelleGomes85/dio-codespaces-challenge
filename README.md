@@ -23,6 +23,14 @@ Desafio do DIO, usando o Github codeSpace para resolver códigos simples em Pyth
 
 ## 4 - Verificando Números Pares e Ímpares 🧮
 
-Descrição: Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. 
+**Descrição:** Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. 
 
 [![Código Resolvido](https://img.shields.io/badge/Código_Resolvido-Números_Pares/Impares-blue)](https://github.com/michelleGomes85/dio-codespaces-challenge/blob/main/checking_even_odd.py)
+
+# 5 - Calculando Média de Notas 📚
+
+**Descrição:** Calcular a média de três notas fornecidas na entrada do usuário
+
+[![Código Resolvido](https://img.shields.io/badge/Código_Resolvido-Calcular_Média-blue)](https://github.com/michelleGomes85/dio-codespaces-challenge/blob/main/average_grades.py)
+
+
